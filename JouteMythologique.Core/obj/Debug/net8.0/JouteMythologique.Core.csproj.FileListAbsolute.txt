@@ -1,0 +1,12 @@
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\bin\Debug\net8.0\JouteMythologique.Core.deps.json
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\bin\Debug\net8.0\JouteMythologique.Core.dll
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\bin\Debug\net8.0\JouteMythologique.Core.pdb
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\JouteMythologique.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\JouteMythologique.Core.AssemblyInfoInputs.cache
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\JouteMythologique.Core.AssemblyInfo.cs
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\JouteMythologique.Core.csproj.CoreCompileInputs.cache
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\JouteMythologique.Core.sourcelink.json
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\JouteMythologique.Core.dll
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\refint\JouteMythologique.Core.dll
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\JouteMythologique.Core.pdb
+D:\La_catho\Master_2_Cyber_Cours\S1\Technologie Microsoft\tp1-CSharp\JouteMythologique.Core\obj\Debug\net8.0\ref\JouteMythologique.Core.dll
